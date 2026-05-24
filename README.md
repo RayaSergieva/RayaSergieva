@@ -91,7 +91,7 @@
 
 <p>
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="22" alt="active"/>
-  &nbsp;<sub><b>2026 · IN PROGRESS · SOLE ENGINEER</b></sub>
+  &nbsp;<sub><b>2026 · IN PROGRESS · SOLO ENGINEER</b></sub>
 </p>
 
 A complete production engagement for *Yordan Ivanov AVG*, a family-run driving school. I'm designing, building, and shipping every layer myself, from the data model up to the deployed mobile experience.
@@ -135,7 +135,15 @@ A complete production engagement for *Yordan Ivanov AVG*, a family-run driving s
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=820&lines=C%23+%C2%B7+.NET+%C2%B7+ASP.NET+Core+%C2%B7+EF+Core;JavaScript+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+HTML+%C2%B7+CSS;MS+SQL+%C2%B7+PostgreSQL+%C2%B7+Python+%C2%B7+C%2B%2B;Azure+%C2%B7+Docker+%C2%B7+Kubernetes+%C2%B7+Linux+%C2%B7+Git" alt="tech typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&italic=true&weight=600&size=24&duration=3500&pause=1200&color=7DD3FC&center=true&vCenter=true&width=820&lines=%E2%9C%A6+Backend+by+trade%2C+frontend+by+curiosity;C%23+is+home.+.NET+is+the+neighborhood.;React+%2B+TypeScript+%3D+my+happy+place+%F0%9F%92%99;Built+with+care%2C+debugged+with+patience;Where+it+ships%3A+Azure+%C2%B7+Docker+%C2%B7+Kubernetes" alt="philosophical typing"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=820&lines=C%23+%C2%B7+.NET+%C2%B7+ASP.NET+Core+%C2%B7+EF+Core;JavaScript+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+HTML+%C2%B7+CSS;MS+SQL+%C2%B7+PostgreSQL+%C2%B7+Python+%C2%B7+C%2B%2B;Azure+%C2%B7+Docker+%C2%B7+Kubernetes+%C2%B7+Linux+%C2%B7+Git" alt="tech typing"/>
   </a>
 </p>
 
@@ -179,7 +187,7 @@ A complete production engagement for *Yordan Ivanov AVG*, a family-run driving s
 
 <!-- Project 1: LuminousStudio -->
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" align="left" width="130" alt="lightbulb"/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" align="left" width="220" alt="lightbulb"/>
 
 ### 💡 &nbsp;LuminousStudio
 <i>An e-commerce platform for Tiffany lamps.</i>
@@ -200,7 +208,7 @@ Architected across **15 class library projects** with strict separation of conce
 
 <!-- Project 2: MASHA -->
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" align="right" width="130" alt="robot"/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" align="right" width="160" alt="robot"/>
 
 #### <sub>◦ AWARD WINNER · 2025</sub>
 ### 🤖 &nbsp;MASHA
@@ -218,7 +226,7 @@ Presented at the **4th National IT &amp; Automation Conference (ITA 2025)**, whe
 
 <!-- Project 3: ML Research -->
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" align="left" width="130" alt="brain"/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" align="left" width="220" alt="brain"/>
 
 #### <sub>◦ INDEPENDENT RESEARCH · 2025</sub>
 ### 🧠 &nbsp;ML Research Pipeline
@@ -235,7 +243,7 @@ An end-to-end ML project that took algorithms from first principles all the way 
 
 <!-- Project 4: Classic Games -->
 
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Video%20game/3D/video_game_3d.png" align="right" width="130" alt="game"/>
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Video%20game/3D/video_game_3d.png" align="right" width="160" alt="game"/>
 
 #### <sub>◦ WHERE IT STARTED · 2014–2017</sub>
 ### 🎮 &nbsp;Classic game recreations
@@ -332,7 +340,7 @@ A 4th-grade dojo-themed browser game in pure HTML, CSS, and JS, followed by year
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Briefcase/3D/briefcase_3d.png" width="40"/> &nbsp;
-  <b>Sole engineer on a real client project</b> &nbsp;<sub>· Designing, building, and shipping AVG end-to-end in 2026.</sub>
+  <b>Solo engineer on a real client project</b> &nbsp;<sub>· Designing, building, and shipping AVG end-to-end in 2026.</sub>
 </p>
 
 <p align="center">
@@ -358,7 +366,7 @@ A 4th-grade dojo-themed browser game in pure HTML, CSS, and JS, followed by year
 <br/>
 
 <!-- Hobby 1: Bibu -->
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f98e/512.gif" align="left" width="130" alt="chameleon"/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f98e/512.gif" align="left" width="140" alt="chameleon"/>
 
 ### 🦎 &nbsp;Bibu the chameleon
 <i>My favorite little roommate.</i>
@@ -370,7 +378,7 @@ A small, color-shifting friend who shares my workspace and provides the world's 
 <br/>
 
 <!-- Hobby 2: Painting -->
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3a8/512.gif" align="right" width="130" alt="painting"/>
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Artist%20palette/3D/artist_palette_3d.png" align="right" width="140" alt="painting"/>
 
 ### 🎨 &nbsp;Acrylic painting
 <i>A different kind of pixel art.</i>
@@ -382,7 +390,7 @@ When the screen gets loud, I switch to canvas. Same composition instincts, slowe
 <br/>
 
 <!-- Hobby 3: Books -->
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" align="left" width="130" alt="books"/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" align="left" width="140" alt="books"/>
 
 ### 📚 &nbsp;Sci-fi & fantasy
 <i>Foundation, Dune, LotR. Always one bookmark deep.</i>
@@ -394,7 +402,7 @@ The shelves that taught me about systems, scale, and structure long before any f
 <br/>
 
 <!-- Hobby 4: Gaming -->
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Video%20game/3D/video_game_3d.png" align="right" width="130" alt="gaming"/>
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Video%20game/3D/video_game_3d.png" align="right" width="140" alt="gaming"/>
 
 ### 🎮 &nbsp;Gaming, all kinds
 <i>RPGs, indies, shooters. The whole spectrum.</i>
@@ -406,7 +414,7 @@ Every great game is a state machine. Every state machine becomes a great game wh
 <br/>
 
 <!-- Hobby 5: LEGO -->
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Brick/3D/brick_3d.png" align="left" width="130" alt="lego"/>
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Brick/3D/brick_3d.png" align="left" width="140" alt="lego"/>
 
 ### 🧱 &nbsp;LEGO
 <i>Building things for the simple joy of it.</i>
@@ -418,7 +426,7 @@ Snap two together and you've got a function. Snap a thousand and you've got an a
 <br/>
 
 <!-- Hobby 6: Street workout -->
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.gif" align="right" width="130" alt="workout"/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.gif" align="right" width="140" alt="workout"/>
 
 ### 💪 &nbsp;Street workout
 <i>Calisthenics, parks, fresh air.</i>
