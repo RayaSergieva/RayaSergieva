@@ -7,369 +7,477 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <a href="https://rayasergieva.dev/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,40:2d1b4e,100:5e2d4e&height=300&section=header&text=Raya%20Sergieva%20%E2%9C%A6&fontSize=70&fontColor=FFD8B8&animation=fadeIn&fontAlignY=40&desc=FIELD%20NOTES%20OF%20A%20FULL-STACK%20DEVELOPER&descSize=15&descAlignY=62&descAlign=50" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:1E3A8A,60:0EA5E9,100:06B6D4&height=300&section=header&text=Raya%20Sergieva%20%E2%9C%A6&fontSize=70&fontColor=F0F9FF&animation=fadeIn&fontAlignY=40&desc=FIELD%20NOTES%20OF%20A%20FULL-STACK%20DEVELOPER&descSize=15&descAlignY=62&descAlign=50" width="100%" alt="header"/>
 </a>
+
+<br/>
+
+<p align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="44" alt="waving hand"/>
+  &nbsp;&nbsp;
+  <b><i>Hi there.</i></b>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=30&duration=3500&pause=1200&color=FFD0D0&center=true&vCenter=true&width=760&lines=Wandering+through+the+modern+web+%E2%9C%A6;Building+things+one+keystroke+at+a+time;Late+nights%2C+cloud+deploys%2C+and+good+coffee+%E2%98%95;Code+as+a+second+native+language+%F0%9F%87%A7%F0%9F%87%AC" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=32&duration=3500&pause=1200&color=7DD3FC&center=true&vCenter=true&width=920&lines=Wandering+through+the+modern+web+%E2%9C%A6;Building+things+one+keystroke+at+a+time;Late+nights%2C+cloud+deploys%2C+good+coffee+%E2%98%95;Code+as+a+second+native+language+%F0%9F%87%A7%F0%9F%87%AC" alt="typing"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RayaSergieva&label=visitors&color=FF7B7B&style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Sofia,_Bulgaria-A78BFA?style=flat-square&logo=googlemaps&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Builder_by_nature-5BC0EB?style=flat-square"/>
-</p>
-
-<p align="center">
-  <a href="https://rayasergieva.dev/"><img src="https://img.shields.io/badge/%E2%9C%A6_portfolio-rayasergieva.dev-FF7B7B?style=for-the-badge&labelColor=0a0e27"/></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/raya-sergieva-316863381/"><img src="https://img.shields.io/badge/linkedin-raya_sergieva-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27"/></a>
-  &nbsp;
-  <a href="mailto:sergieva.raya@gmail.com"><img src="https://img.shields.io/badge/email-say_hi-5BC0EB?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0a0e27"/></a>
 </p>
 
 <br/>
 
-<p align="center"><sub>✦ &nbsp;&nbsp;✦ &nbsp;&nbsp;✦</sub></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RayaSergieva&label=visitors&color=0EA5E9&style=for-the-badge&labelColor=0F172A"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Sofia,_Bulgaria-0284C7?style=for-the-badge&logo=googlemaps&logoColor=F0F9FF&labelColor=0F172A"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Builder_by_nature-06B6D4?style=for-the-badge&labelColor=0F172A"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/ENTP-38BDF8?style=for-the-badge&labelColor=0F172A"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://rayasergieva.dev/"><img src="https://img.shields.io/badge/%E2%9C%A6%20%20Portfolio-0EA5E9?style=for-the-badge&logoColor=white&labelColor=0F172A"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/raya-sergieva-316863381/"><img src="https://img.shields.io/badge/%20%20LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A"/></a>
+  &nbsp;
+  <a href="mailto:sergieva.raya@gmail.com"><img src="https://img.shields.io/badge/%20%20Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A"/></a>
+</p>
+
+<br/>
+
+<h4 align="center"><i>✦ &nbsp; wired to build, debate, and explore &nbsp; ✦</i></h4>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:38BDF8,100:06B6D4&height=50&animation=fadeIn" width="100%" alt="blue wave divider"/>
 
 <br/>
 
 <!-- ─────────────────────────  OPENING  ───────────────────────── -->
 
-<table align="center">
-  <tr>
-    <td align="center" width="800">
-      <h3>Dear visitor,</h3>
-      <p>
-        <i>I started writing code in 4th grade. My very first project was a dojo-themed browser game built in pure HTML, CSS, and JavaScript.<br/>
-        A decade later, it's grown into a quiet conversation between me and the machine: late nights, cloud deploys, and the kind of curiosity that doesn't really turn off.<br/><br/>
-        This is what I've built so far. Thanks for stopping by. ✦</i>
-      </p>
-    </td>
-  </tr>
-</table>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" align="left" width="260" alt="laptop"/>
+
+### &nbsp; Dear visitor,
+
+&nbsp;<i>Coding found me in 4th grade. The very first thing I built was a dojo-themed browser game in pure HTML, CSS, and JavaScript, made long before I knew what a framework was.</i>
+
+&nbsp;<i>A decade later, that early curiosity has settled into something I now take seriously: typed backends, cloud deploys, late-night debugging, and the quiet satisfaction of watching imagined things actually run.</i>
+
+&nbsp;<i>Below is what I've built so far. Stay a while.</i> ✦
+
+<br clear="left"/>
 
 <br/>
 
-<p align="center"><sub>✦ &nbsp;&nbsp;✦ &nbsp;&nbsp;✦</sub></p>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="animated divider"/>
 
 <br/>
 
 <!-- ──────────────────────  ON THE WORKBENCH  ────────────────── -->
 
-<h2>&nbsp;✦&nbsp;&nbsp;On the workbench</h2>
+<h2 align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0/512.gif" width="38" alt="hammer"/>
+  &nbsp; On the workbench
+</h2>
 
-> <i>What I'm building right now.</i>
+<p align="left"><i>What I'm building right now.</i></p>
 
-<table>
-  <tr>
-    <td width="100%">
-      <h3>🚗&nbsp; AVG, a production platform for a driving school</h3>
-      <p><sub><b>2026 · IN PROGRESS · SOLE ENGINEER · PERNIK, BULGARIA</b></sub></p>
-      <p>A complete engagement for <i>Yordan Ivanov AVG</i>, a family-run driving school. I'm designing and building every layer myself, from the data model all the way to the deployed mobile experience.</p>
-      <table>
-        <tr>
-          <td width="50%" valign="top">
-            <p><b>· The backend ·</b><br/>Typed ASP.NET Core with Entity Framework Core, leaning on the patterns I shipped in LuminousStudio.</p>
-            <p><b>· The web ·</b><br/>A responsive JavaScript-driven front-end designed for clarity on every screen size.</p>
-          </td>
-          <td width="50%" valign="top">
-            <p><b>· The mobile ·</b><br/>A companion app for students on the go, sharing the same domain logic.</p>
-            <p><b>· The cloud ·</b><br/>Continuous deployment on Azure, with the deploy pipeline built in from day one.</p>
-          </td>
-        </tr>
-      </table>
-      <p>
-        <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Mobile-FF7B7B?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f697/512.gif" align="right" width="190" alt="car"/>
+
+### 🚗 &nbsp;AVG, a production platform for a driving school
+
+<p>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="22" alt="active"/>
+  &nbsp;<sub><b>2026 · IN PROGRESS · SOLE ENGINEER</b></sub>
+</p>
+
+A complete production engagement for *Yordan Ivanov AVG*, a family-run driving school. I'm designing, building, and shipping every layer myself, from the data model up to the deployed mobile experience.
+
+**▸ The backend.** Typed ASP.NET Core with Entity Framework Core, leaning on the patterns I shipped in LuminousStudio.
+
+**▸ The web.** A responsive JavaScript-driven front-end designed for clarity on every screen size.
+
+**▸ The mobile.** A companion app for students on the go, sharing the same domain logic.
+
+**▸ The cloud.** Continuous deployment on Azure, with the deploy pipeline built in from day one.
 
 <br/>
 
-<p align="center"><sub>✦ &nbsp;&nbsp;✦ &nbsp;&nbsp;✦</sub></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure" height="48"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="MS SQL"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=js,react" height="48"/>
+</p>
+
+<br clear="right"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:38BDF8,100:06B6D4&height=50&animation=fadeIn" width="100%" alt="blue wave divider"/>
 
 <br/>
 
 <!-- ───────────────────────  THE FIELD KIT  ──────────────────── -->
 
-<h2>&nbsp;◇&nbsp;&nbsp;The field kit</h2>
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9f0/512.gif" width="38" alt="toolbox"/>
+  &nbsp; The field kit
+</h2>
 
-> <i>The tools that show up in every project.</i>
-
-<table>
-  <tr>
-    <td align="center" width="200" valign="top">
-      <sub><b>FOR THE BACKEND</b></sub><br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40"/>
-      <br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-      <br/><br/>
-      <sub>C# · .NET · ASP.NET Core<br/>EF Core · MS SQL · Python</sub>
-    </td>
-    <td align="center" width="200" valign="top">
-      <sub><b>FOR THE FRONTEND</b></sub><br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-      <br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-      <br/><br/>
-      <sub>JavaScript · TypeScript<br/>React · HTML · CSS · Node</sub>
-    </td>
-    <td align="center" width="200" valign="top">
-      <sub><b>FOR THE CLOUD</b></sub><br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
-      <br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-      <br/><br/>
-      <sub>Azure · Docker · Kubernetes<br/>Linux · Git · C++</sub>
-    </td>
-  </tr>
-</table>
+<p align="center"><i>The tools that show up in every project.</i></p>
 
 <br/>
 
-<p align="center"><sub>✦ &nbsp;&nbsp;✦ &nbsp;&nbsp;✦</sub></p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=820&lines=C%23+%C2%B7+.NET+%C2%B7+ASP.NET+Core+%C2%B7+EF+Core;JavaScript+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+HTML+%C2%B7+CSS;MS+SQL+%C2%B7+PostgreSQL+%C2%B7+Python+%C2%B7+C%2B%2B;Azure+%C2%B7+Docker+%C2%B7+Kubernetes+%C2%B7+Linux+%C2%B7+Git" alt="tech typing"/>
+  </a>
+</p>
+
+<br/>
+
+<h4 align="center">FOR THE BACKEND</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" height="48"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="MS SQL"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres,python" height="48"/>
+</p>
+
+<h4 align="center">FOR THE FRONTEND</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs" height="48"/>
+</p>
+
+<h4 align="center">FOR THE CLOUD</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,linux,git,cpp" height="48"/>
+</p>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="animated divider"/>
 
 <br/>
 
 <!-- ──────────────────────  FROM THE ARCHIVE  ────────────────── -->
 
-<h2>&nbsp;✧&nbsp;&nbsp;From the archive</h2>
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c2/512.gif" width="38" alt="folder"/>
+  &nbsp; From the archive
+</h2>
 
-> <i>Three projects worth opening up.</i>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <p><sub><b>◦ SOFTUNI CAPSTONE · 2025</b></sub></p>
-      <h3>💡 &nbsp;LuminousStudio</h3>
-      <p><i>An e-commerce platform for Tiffany lamps.</i></p>
-      <p>Architected across <b>15 class library projects</b> with strict separation of concerns. Repository pattern, role-based Admin Area, REST API with Swagger, real-time stock updates via SignalR, and <b>31 unit tests</b> covering 65%+ of business logic.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-ASP.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-SignalR-512BD4?style=flat-square"/>
-        <img src="https://img.shields.io/badge/-xUnit-9B4F96?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <p><sub><b>◦ AWARD WINNER · 2025</b></sub></p>
-      <h3>🤖 &nbsp;MASHA</h3>
-      <p><i>An interactive robot, on stage at a national conference.</i></p>
-      <p>Presented at the <b>4th National IT &amp; Automation Conference (ITA 2025)</b>, where it received a <b>national award and diploma of excellence</b>. Hardware, embedded logic, and live presentation, all engineered together.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><sub><b>◦ INDEPENDENT RESEARCH · 2025</b></sub></p>
-      <h3>🧠 &nbsp;ML Research Pipeline</h3>
-      <p><i>~400 hours of math, code, and writing.</i></p>
-      <p>An end-to-end ML project that took algorithms from first principles all the way to a deployed pipeline, with systematic hyperparameter tuning, cross-validation, and a formal technical report.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <p><sub><b>◦ WHERE IT STARTED · 2014–2017</b></sub></p>
-      <h3>🎮 &nbsp;Classic game recreations</h3>
-      <p><i>The origin story.</i></p>
-      <p>A 4th-grade dojo-themed browser game in pure HTML, CSS, and JS, followed by years of rebuilding Snake, Pac-Man, and other classics in Python. The school of "I'll figure it out by making it."</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<p align="center"><sub>✦&nbsp; more on the <a href="https://rayasergieva.dev/"><b>portfolio site</b></a>&nbsp; ✦</sub></p>
+<p align="center"><i>Four projects worth opening up.</i></p>
 
 <br/>
 
-<p align="center"><sub>✦ &nbsp;&nbsp;✦ &nbsp;&nbsp;✦</sub></p>
+<!-- Project 1: LuminousStudio -->
+
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" align="left" width="130" alt="lightbulb"/>
+
+### 💡 &nbsp;LuminousStudio
+<i>An e-commerce platform for Tiffany lamps.</i>
+
+Architected across **15 class library projects** with strict separation of concerns. Repository pattern, role-based Admin Area, REST API with Swagger, real-time stock updates via SignalR, and **31 unit tests** covering 65%+ of business logic. The capstone I'm proudest of so far.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" height="44"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="44" alt="MS SQL"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" height="44"/>
+</p>
+
+<br clear="left"/>
+
+<br/>
+
+<!-- Project 2: MASHA -->
+
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" align="right" width="130" alt="robot"/>
+
+#### <sub>◦ AWARD WINNER · 2025</sub>
+### 🤖 &nbsp;MASHA
+<i>An interactive robot, on stage at a national conference.</i>
+
+Presented at the **4th National IT &amp; Automation Conference (ITA 2025)**, where it received a **national award and diploma of excellence**. Hardware, embedded logic, and live presentation, all engineered together. The project that taught me what it really means to ship something physical.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,arduino,raspberrypi,linux" height="44"/>
+</p>
+
+<br clear="right"/>
+
+<br/>
+
+<!-- Project 3: ML Research -->
+
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" align="left" width="130" alt="brain"/>
+
+#### <sub>◦ INDEPENDENT RESEARCH · 2025</sub>
+### 🧠 &nbsp;ML Research Pipeline
+
+An end-to-end ML project that took algorithms from first principles all the way to a deployed pipeline, with systematic hyperparameter tuning, cross-validation, and a formal technical report. Proof to myself that good engineering is good thinking, applied with care.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" height="44"/>
+</p>
+
+<br clear="left"/>
+
+<br/>
+
+<!-- Project 4: Classic Games -->
+
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Video%20game/3D/video_game_3d.png" align="right" width="130" alt="game"/>
+
+#### <sub>◦ WHERE IT STARTED · 2014–2017</sub>
+### 🎮 &nbsp;Classic game recreations
+<i>The origin story.</i>
+
+A 4th-grade dojo-themed browser game in pure HTML, CSS, and JS, followed by years of rebuilding Snake, Pac-Man, and other classics in Python. The school of "I'll figure it out by making it."
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" height="44"/>
+</p>
+
+<br clear="right"/>
+
+<br/>
+
+<p align="center">
+  <a href="https://rayasergieva.dev/">
+    <img src="https://img.shields.io/badge/%E2%9C%A6%20%20%20more%20on%20the%20portfolio%20site%20%20%20%E2%9C%A6-1D4ED8?style=for-the-badge&labelColor=0F172A" alt="portfolio site"/>
+  </a>
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:38BDF8,100:06B6D4&height=50&animation=fadeIn" width="100%" alt="blue wave divider"/>
 
 <br/>
 
 <!-- ──────────────────────  CURRENTLY DEEP IN  ───────────────── -->
 
-<h2>&nbsp;◌&nbsp;&nbsp;Currently deep in</h2>
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4d6/512.gif" width="38" alt="book"/>
+  &nbsp; Currently deep in
+</h2>
 
-> <i>The docs I keep open in another tab.</i>
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <p><b>☁️ &nbsp;Azure & cloud-native</b><br/>
-      <sub>Going deeper into deployments, services, and infrastructure as code.</sub></p>
-      <p><b>🐳 &nbsp;Kubernetes</b><br/>
-      <sub>Orchestration, scaling, and production-grade container workflows.</sub></p>
-    </td>
-    <td valign="top" width="50%">
-      <p><b>🐧 &nbsp;Linux administration</b><br/>
-      <sub>Server-side fluency for the cloud era.</sub></p>
-      <p><b>🏗️ &nbsp;Distributed systems</b><br/>
-      <sub>Thinking at architecture level, not just at code level.</sub></p>
-    </td>
-  </tr>
-</table>
+<p align="center"><i>The docs I keep open in another tab.</i></p>
 
 <br/>
 
-<p align="center"><sub>✦ &nbsp;&nbsp;✦ &nbsp;&nbsp;✦</sub></p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="44"/>
+  &nbsp; &nbsp;
+  <b>Azure & cloud-native</b> &nbsp; <sub>· Learning what 'serverless' actually means under the hood.</sub>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="44"/>
+  &nbsp; &nbsp;
+  <b>Kubernetes</b> &nbsp; <sub>· Orchestration, scaling, and production-grade container workflows.</sub>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="44"/>
+  &nbsp; &nbsp;
+  <b>Linux administration</b> &nbsp; <sub>· Because every cloud is just someone else's Linux box.</sub>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Building%20construction/3D/building_construction_3d.png" width="44"/>
+  &nbsp; &nbsp;
+  <b>Distributed systems</b> &nbsp; <sub>· Thinking at architecture level, not just at code level.</sub>
+</p>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="animated divider"/>
 
 <br/>
 
 <!-- ────────────────────────  ON THE WALL  ───────────────────── -->
 
-<h2>&nbsp;◆&nbsp;&nbsp;On the wall</h2>
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="38" alt="trophy"/>
+  &nbsp; On the wall
+</h2>
 
-> <i>A few things I'm proud of.</i>
-
-<table>
-  <tr>
-    <td width="60" align="center">🏆</td>
-    <td><b>National award at ITA 2025</b><br/><sub>For MASHA, the interactive robot presented at the 4th National IT &amp; Automation Conference.</sub></td>
-  </tr>
-  <tr>
-    <td width="60" align="center">🎓</td>
-    <td><b>Graduated high school with excellence</b><br/><sub>Class of 2024.</sub></td>
-  </tr>
-  <tr>
-    <td width="60" align="center">📜</td>
-    <td><b>18+ professional certifications</b><br/><sub>Across frontend, backend, databases, and the cloud.</sub></td>
-  </tr>
-  <tr>
-    <td width="60" align="center">💼</td>
-    <td><b>Sole engineer on a real client project</b><br/><sub>Designing, building, and shipping AVG end-to-end in 2026.</sub></td>
-  </tr>
-  <tr>
-    <td width="60" align="center">🌍</td>
-    <td><b>EU Code Week 2024 participant</b><br/><sub>Active member of the wider European coding community.</sub></td>
-  </tr>
-</table>
+<p align="center"><i>A few things I'm proud of.</i></p>
 
 <br/>
 
-<p align="center"><sub>✦ &nbsp;&nbsp;✦ &nbsp;&nbsp;✦</sub></p>
+<p align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="40"/> &nbsp;
+  <b>National award at ITA 2025</b> &nbsp;<sub>· For MASHA, the interactive robot at the 4th National IT &amp; Automation Conference.</sub>
+</p>
+
+<p align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="40"/> &nbsp;
+  <b>Graduated high school with excellence</b> &nbsp;<sub>· Class of 2024.</sub>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Scroll/3D/scroll_3d.png" width="40"/> &nbsp;
+  <b>18+ professional certifications</b> &nbsp;<sub>· Across frontend, backend, databases, and the cloud.</sub>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Briefcase/3D/briefcase_3d.png" width="40"/> &nbsp;
+  <b>Sole engineer on a real client project</b> &nbsp;<sub>· Designing, building, and shipping AVG end-to-end in 2026.</sub>
+</p>
+
+<p align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.gif" width="40"/> &nbsp;
+  <b>EU Code Week 2024 participant</b> &nbsp;<sub>· Active in the wider European coding community.</sub>
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:38BDF8,100:06B6D4&height=50&animation=fadeIn" width="100%" alt="blue wave divider"/>
 
 <br/>
 
 <!-- ──────────────────────  OFF THE KEYBOARD  ────────────────── -->
 
-<h2>&nbsp;◐&nbsp;&nbsp;Off the keyboard</h2>
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="38" alt="sparkles"/>
+  &nbsp; Off the keyboard
+</h2>
 
-> <i>What I do when I close the laptop.</i>
-
-<table>
-  <tr>
-    <td align="center" width="33%" valign="top">
-      <h3>🦎</h3>
-      <b>Bibu the chameleon</b><br/>
-      <sub>My favorite little roommate.</sub>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <h3>🎨</h3>
-      <b>Acrylic painting</b><br/>
-      <sub>A different kind of pixel art.</sub>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <h3>📚</h3>
-      <b>Sci-fi & fantasy</b><br/>
-      <sub>Foundation, Dune, LotR. Always one bookmark deep.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%" valign="top">
-      <h3>🎮</h3>
-      <b>Gaming, all kinds</b><br/>
-      <sub>RPGs, indies, shooters. The whole spectrum.</sub>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <h3>🧱</h3>
-      <b>LEGO</b><br/>
-      <sub>Building things for the simple joy of it.</sub>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <h3>💪</h3>
-      <b>Street workout</b><br/>
-      <sub>Calisthenics, parks, fresh air.</sub>
-    </td>
-  </tr>
-</table>
+<p align="center"><i>What I do when I close the laptop.</i></p>
 
 <br/>
 
-<p align="center"><sub>✦ &nbsp;&nbsp;✦ &nbsp;&nbsp;✦</sub></p>
+<!-- Hobby 1: Bibu -->
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f98e/512.gif" align="left" width="130" alt="chameleon"/>
+
+### 🦎 &nbsp;Bibu the chameleon
+<i>My favorite little roommate.</i>
+
+A small, color-shifting friend who shares my workspace and provides the world's most patient code reviews.
+
+<br clear="left"/>
+
+<br/>
+
+<!-- Hobby 2: Painting -->
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3a8/512.gif" align="right" width="130" alt="painting"/>
+
+### 🎨 &nbsp;Acrylic painting
+<i>A different kind of pixel art.</i>
+
+When the screen gets loud, I switch to canvas. Same composition instincts, slower feedback loop, far less debugging.
+
+<br clear="right"/>
+
+<br/>
+
+<!-- Hobby 3: Books -->
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" align="left" width="130" alt="books"/>
+
+### 📚 &nbsp;Sci-fi & fantasy
+<i>Foundation, Dune, LotR. Always one bookmark deep.</i>
+
+The shelves that taught me about systems, scale, and structure long before any framework did.
+
+<br clear="left"/>
+
+<br/>
+
+<!-- Hobby 4: Gaming -->
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Video%20game/3D/video_game_3d.png" align="right" width="130" alt="gaming"/>
+
+### 🎮 &nbsp;Gaming, all kinds
+<i>RPGs, indies, shooters. The whole spectrum.</i>
+
+Every great game is a state machine. Every state machine becomes a great game when the design is right.
+
+<br clear="right"/>
+
+<br/>
+
+<!-- Hobby 5: LEGO -->
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Brick/3D/brick_3d.png" align="left" width="130" alt="lego"/>
+
+### 🧱 &nbsp;LEGO
+<i>Building things for the simple joy of it.</i>
+
+Snap two together and you've got a function. Snap a thousand and you've got an architecture.
+
+<br clear="left"/>
+
+<br/>
+
+<!-- Hobby 6: Street workout -->
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.gif" align="right" width="130" alt="workout"/>
+
+### 💪 &nbsp;Street workout
+<i>Calisthenics, parks, fresh air.</i>
+
+A clean rep is a clean commit. Both reward consistency over intensity.
+
+<br clear="right"/>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="animated divider"/>
 
 <br/>
 
 <!-- ─────────────────────────  FIND ME  ──────────────────────── -->
 
-<h2>&nbsp;✉&nbsp;&nbsp;Find me here</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="800">
-      <p>Want to talk software, sci-fi, or anything in between? Send a message. I read everything.</p>
-      <br/>
-      <p>
-        <a href="mailto:sergieva.raya@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89_sergieva.raya@gmail.com-FF7B7B?style=for-the-badge&labelColor=0a0e27"/></a>
-        &nbsp;
-        <a href="https://rayasergieva.dev/"><img src="https://img.shields.io/badge/%E2%9C%A6_portfolio-A78BFA?style=for-the-badge&labelColor=0a0e27"/></a>
-        &nbsp;
-        <a href="https://www.linkedin.com/in/raya-sergieva-316863381/"><img src="https://img.shields.io/badge/linkedin-5BC0EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27"/></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Envelope/3D/envelope_3d.png" width="38" alt="envelope"/>
+  &nbsp; Find me here
+</h2>
 
 <br/>
 
 <p align="center">
-  <i>"Code, for me, has never been a subject.<br/>It has been a language I've been quietly writing since childhood."</i>
+  Want to talk software, sci-fi, or anything in between? Send a message. I read everything.
 </p>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5e2d4e,60:2d1b4e,100:0a0e27&height=140&section=footer&text=%E2%9C%A6%20fin%20%E2%9C%A6&fontSize=28&fontColor=FFD8B8&animation=twinkling&fontAlignY=72" width="100%"/>
+<p align="center">
+  <a href="mailto:sergieva.raya@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%20%20sergieva.raya%40gmail.com-0EA5E9?style=for-the-badge&labelColor=0F172A"/></a>
+  &nbsp;
+  <a href="https://rayasergieva.dev/"><img src="https://img.shields.io/badge/%E2%9C%A6%20%20portfolio-1D4ED8?style=for-the-badge&labelColor=0F172A"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/raya-sergieva-316863381/"><img src="https://img.shields.io/badge/%20%20linkedin-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A"/></a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="32" alt="sparkles"/>
+  &nbsp;
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&italic=true&size=22&duration=4000&pause=2000&color=7DD3FC&center=true&vCenter=true&width=920&lines=Code%2C+for+me%2C+has+never+been+a+subject.;It+has+been+a+language+I've+been+writing+since+childhood.+%E2%9C%A6" alt="closing quote"/>
+  </a>
+  &nbsp;
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="32" alt="sparkles"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <sub><i>made with</i></sub>
+  &nbsp;
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f499/512.gif" width="20" alt="blue heart"/>
+  &nbsp;
+  <sub><i>in Sofia, Bulgaria &nbsp; ·  &nbsp; thanks for reading ✦</i></sub>
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,40:0EA5E9,70:1E3A8A,100:0F172A&height=160&section=footer&animation=twinkling" width="100%"/>
